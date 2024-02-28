@@ -1,2 +1,2 @@
 # hospitalFrontend
-psychologist hospital website
+Psychologist hospital website
