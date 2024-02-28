@@ -1,2 +1,2 @@
-# hospitalFrontend.github.io
+# HospitalFrontend.github.io
 Psychologist hospital website
